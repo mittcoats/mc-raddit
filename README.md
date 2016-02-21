@@ -5,16 +5,16 @@ A reddit style link aggregator inspired by Mackenzie Child.
 Find me live at: https://mc-raddit.herokuapp.com/users/sign_in
 
 
-##"Let me tell you the secret
- 	that has led me to my goals:
-  my strength lies solely
-  in my tenacity."
-  			- Louis Pasteur
+>"Let me tell you the secret
+>that has led me to my goals:
+>my strength lies solely
+>in my tenacity."
+  			*- Louis Pasteur*
 
                       o
                      {|~
                      / \
-										 /#\
+                     /#\
                     /###\     /\
                    /  ###\   /##\  /\
                   /      #\ /####\/##\
@@ -25,8 +25,8 @@ Find me live at: https://mc-raddit.herokuapp.com/users/sign_in
      /\     /    /\  ...  \_/   / / \   } \ | /  /\  \ /  _    /  /    \ /\
   _ /  \  /// / .\  ..%:.  /... /\ . \ {:  \\   /. \     / \  /   ___   /  \
  /.\ .\.\// \/... \.::::..... _/..\ ..\:|:. .  / .. \\  /.. \    /...\ /  \ \
-/...\.../..:.\. ..:::::::..:..... . ...\{:... / %... \\/..%. \  /./:..\__   \
- .:..\:..:::....:::;;;;;;::::::::.:::::.\}.....::%.:. \ .:::. \/.%:::.:..\
+/......./..:.\/. ..:::::::..:..... . ...\/{:... / %... \%\/..%. \  /./:..\%__\
+ .:..\:..:::....:::;;;;;;::::::::.:::::.\/}.....::%.:. \ .:::. \/.%:::.:..\
 ::::...:::;;:::::;;;;;;;;;;;;;;:::::;;::{:::::::;;;:..  .:;:... ::;;::::..
 ;;;;:::;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;];;;;;;;;;;::::::;;;;:.::;;;;;;;;:..
 ;;;;;;;;;;;;;;ii;;;;;;;;;;;;;;;;;;;;;;;;[;;;;;;;;;;;;;;;;;;;;;;:;;;;;;;;;;;;;
