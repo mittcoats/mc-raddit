@@ -1,6 +1,6 @@
-###README
+####README
 
-####A reddit style link aggregator inspired by Mackenzie Child. 
+#####A reddit style link aggregator inspired by Mackenzie Child. 
 
 Find me live at: https://mc-raddit.herokuapp.com/users/sign_in
 
